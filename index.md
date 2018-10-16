@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages Test voula
 
 Repositories
- [Fraud Detection](FraudDetection.md)
+ [Fraud Detection](classes/FraudDetection/FraudDetection.md)
  
 Readme file Template
  [Readme Template](readmetemplate.md) 
