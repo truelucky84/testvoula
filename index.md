@@ -5,6 +5,9 @@ Repositories
  
 Readme file Template
  [Readme Template](readmetemplate.md) 
+ 
+ChangeLog file Template
+ [Changelog Template](changelogtemplate.md) 
 
 ### Markdown
 
